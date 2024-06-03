@@ -1,0 +1,20 @@
+июн. 03, 2024 8:29:17 PM Seminars.Sem2.task2_2 main
+INFO: started
+июн. 03, 2024 8:29:17 PM Seminars.Sem2.task2_2 writeFileNamesInFile
+SEVERE: writer error
+июн. 03, 2024 8:29:17 PM Seminars.Sem2.task2_2 readFileNamesInDir
+SEVERE: reader error
+июн. 03, 2024 8:30:12 PM Seminars.Sem2.task2_2 main
+INFO: started
+июн. 03, 2024 8:30:12 PM Seminars.Sem2.task2_2 readFileNamesInDir
+SEVERE: reader error
+июн. 03, 2024 8:30:12 PM Seminars.Sem2.task2_2 readFileNamesInDir
+SEVERE: reader error
+июн. 03, 2024 8:30:35 PM Seminars.Sem2.task2_2 main
+INFO: started
+июн. 03, 2024 8:30:35 PM Seminars.Sem2.task2_2 readFileNamesInDir
+SEVERE: reader error
+июн. 03, 2024 8:30:35 PM Seminars.Sem2.task2_2 writeFileNamesInFile
+SEVERE: writer error
+июн. 03, 2024 8:30:35 PM Seminars.Sem2.task2_2 readFileNamesInDir
+SEVERE: reader error
